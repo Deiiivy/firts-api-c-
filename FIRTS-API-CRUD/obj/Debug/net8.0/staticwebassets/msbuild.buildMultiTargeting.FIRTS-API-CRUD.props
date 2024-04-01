@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FIRTS-API-CRUD.props" />
+</Project>

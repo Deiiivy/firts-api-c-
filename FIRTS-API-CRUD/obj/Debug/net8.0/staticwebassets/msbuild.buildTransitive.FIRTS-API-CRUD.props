@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\FIRTS-API-CRUD.props" />
+</Project>
